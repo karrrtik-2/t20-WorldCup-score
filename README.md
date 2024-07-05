@@ -1,2 +1,5 @@
 # t20-WorldCup-score
-T20 World Cup Score Predictor
+A XgBoost based Cricket Score Predictor
+
+Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s
+
